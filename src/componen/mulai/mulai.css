@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+.Card.Title{
+    color: #34C76F;
+    font-size: 32px;
+}
+
+.mulai-btn{
+    margin: 20px;
+}
+  
+.mulai-btn Button:hover{
+    background-color: #393939;
+    color: white;
+  }
+  
+.mulai-btn Button{
+    background-color: #393939;
+    color: white;
+    font-size: 14px;
+    border-color: #393939;
+    justify-Content: center;
+    width: 316px;
+    height: 38px;
+    border-Radius: 25px;
+    
+}
+
+.separator {
+    width: 99%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .separator > div {
+    margin: 20px;
+    width: 180px;
+    height: 1px;
+    border-radius: 20px;
+    background-color: black;
+  }
+  
+  .separator > span {
+    margin: 1px;
+    font-size: 15px;
+    color: black;
+    font-weight: 500;
+  }
+
+  .mlai-btn{
+    margin: 20px;
+    margin-top: 15px;
+    
+  }
+  
+  .mlai-btn Button:hover{
+    background-color: #34C76F;
+    color: white;
+  }
+  
+  .mlai-btn Button{
+    
+    color: #393939;
+    font-size: 14px;
+    border-color: #393939;
+    justify-Content: center;
+    width: 316px;
+    height: 35px;
+    border-Radius: 25px;
+  }
+  
